@@ -1,0 +1,12 @@
+1. GIT
+Create a GIT account and repository
+https://github.com/
+
+Download GIT client
+http://code.google.com/p/msysgit/
+
+2. download ADT Bundle
+http://developer.android.com/sdk/installing/bundle.html
+
+3. download libgdx
+http://code.google.com/p/libgdx/
